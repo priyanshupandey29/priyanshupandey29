@@ -5,5 +5,6 @@ Hi there I am Priyanshu Pandey👋
 - 🏢 I am looking for job opportunities in a front-end developer profile.
 - 🥅 Goals: Aspires to become a Full Stack Developer.
 
-Connect with me:
+Connect:
+
 Linkedin: https:www.linkedin.com/in/priyanshu2910
