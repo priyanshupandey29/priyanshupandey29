@@ -5,5 +5,5 @@
 - 🥅 Opportunity: I am actively seeking exciting job opportunities that align with my passion for Data Engineering. 
 
 Please feel free to connect- 
-❇️ Linkedin: (https://www.linkedin.com/in/priyanshupandeydataeng/)
-✉️ priyanshupandey2910@gmail.com
+- ❇️ Linkedin: (https://www.linkedin.com/in/priyanshupandeydataeng/)
+- ✉️ priyanshupandey2910@gmail.com
